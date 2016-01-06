@@ -1,7 +1,7 @@
 name: storagereview
 favicon: null
-layout_spectrum: 0.8809548984281719
-typography_spectrum: 0.7618597459513694
+layout_spectrum: 0.92629
+typography_spectrum: 0.60359
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#ff0038'
   brandStrength: 1
   lightness: 0.986020638840273
-  saturation: 0.497459753183648
+  saturation: 0.125
   rhythmicContrast: 0.21134211076423526
 purpose: []
